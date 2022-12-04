@@ -13,5 +13,5 @@ int naturelDegree(int numberA, int numberB)
     return result;
 }
 int NaturalDegree = naturelDegree(numberA, numberB);
-Console.WriteLine("Ответ: " + NaturalDegree);
+Console.WriteLine("Ответ = " + NaturalDegree);
 
